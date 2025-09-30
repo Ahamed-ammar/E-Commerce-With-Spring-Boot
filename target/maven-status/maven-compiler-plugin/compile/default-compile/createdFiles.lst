@@ -1,1 +1,4 @@
+com\ecommerce\entity\User$Role.class
+com\ecommerce\repository\UserRepository.class
 main\java\com\ecommerce\EcommerceApplication.class
+com\ecommerce\entity\User.class
