@@ -9,5 +9,5 @@ public class EcommerceApplication {
         SpringApplication.run(EcommerceApplication.class, args);
         System.out.println("Welcome to the E-commerce Application!");
         
-    }
+    }       
 }
